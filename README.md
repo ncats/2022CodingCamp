@@ -25,6 +25,8 @@ Each participant will be choosing a teaching assistant (TA) to work with for the
 - Mark Williams
 - Tongan Zhao
 
+Some descriptions of potential projects by TAs can be found here
+https://docs.google.com/document/d/1633tjYx-nPXI-CtK3Qbv69pfxLcdbau7N3FiJ5s66c4/edit#heading=h.1nij4a35parz
 
 
 ### Working Environment:
@@ -44,6 +46,10 @@ Instructions on how to communicate via GitHub and Slack will be provided in the 
 
 ## Some useful links:
 We've started a document to document some useful resources that related to programming.  Click [here](https://docs.google.com/document/d/1GmnAne6Pk0AkqnJsj9ha9h4zJhxn75hBDpUdwBckDuk/edit#heading=h.ars36iw8ugsw) to access.
+
+Useful documentation 
+https://docs.google.com/document/d/1GmnAne6Pk0AkqnJsj9ha9h4zJhxn75hBDpUdwBckDuk/edit#heading=h.k45wt8p00s1o
+
 
 ## Questions/Concerns?
 Please contact Mark Williams at mark.williams5@nih.gov or on Slack
