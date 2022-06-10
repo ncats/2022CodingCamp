@@ -39,7 +39,7 @@ Instructions on how to communicate via GitHub and Slack will be provided in the 
 ## High-level timeline:
 
 - __Camp Prep__: Read over project ideas, click here
-- __Week1 (9 am)__: Introduction, finalize project selection and timeline, get set up on GitHub/Slack
+- __Week1 (11 am)__: Introduction, finalize project selection and timeline, get set up on GitHub/Slack
 - __Week 2__: Set up your environment to complete project, finalize timeline, work on your first task
 - __Weeks 3-6__: Keep working on tasks, revise timeline as appropriate
 - __Week 7/8__: Final project presentation prep and presentations
