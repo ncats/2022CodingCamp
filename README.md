@@ -47,9 +47,5 @@ Instructions on how to communicate via GitHub and Slack will be provided in the 
 ## Some useful links:
 We've started a document to document some useful resources that related to programming.  Click [here](https://docs.google.com/document/d/1GmnAne6Pk0AkqnJsj9ha9h4zJhxn75hBDpUdwBckDuk/edit#heading=h.ars36iw8ugsw) to access.
 
-Useful documentation 
-https://docs.google.com/document/d/1GmnAne6Pk0AkqnJsj9ha9h4zJhxn75hBDpUdwBckDuk/edit#heading=h.k45wt8p00s1o
-
-
 ## Questions/Concerns?
 Please as on our Slack channel (2022_summer_coding_camp) or contact Ewy (ewy.mathe@nih.gov) or Mark (mark.williams@nih.gov) directly.
