@@ -16,22 +16,22 @@ The camp will be capped to 20 participants.
 
 ### Teaching Assistants:
 Each participant will be choosing a teaching assistant (TA) to work with for the entire 8 weeks. Here are the TAs for this round:
-- Ewy Mathé
 - Andy Patt
 - Tim Sheils
-- Shervin Abdollahi
-- Kyle Spencer
 - Cole Tindall
-- Mark Williams
+- Swazoo Claybon
+- Mark Willliams
+- Kyle Spencer
 - Tongan Zhao
+- Ewy Mathe
+- Wenyu  Zeng
 
-Some descriptions of potential projects by TAs can be found here
-https://docs.google.com/document/d/1633tjYx-nPXI-CtK3Qbv69pfxLcdbau7N3FiJ5s66c4/edit#heading=h.1nij4a35parz
+Some descriptions of potential projects by TAs can be found [here](https://docs.google.com/document/d/1633tjYx-nPXI-CtK3Qbv69pfxLcdbau7N3FiJ5s66c4/edit#heading=h.1nij4a35parz).
 
 
 ### Working Environment:
 We will rely on GitHub and Slack for communication throughout this course.
-Our GitHub site is: https://github.com/ncats/2022CodingCamp/
+Our GitHub site is: https://github.com/ncats/2022SummerCodingCamp/.
 Our Slack Channel is on the NCATS instance and is called: 2022_summer_coding_camp
 
 Instructions on how to communicate via GitHub and Slack will be provided in the introductory lectures.
@@ -52,4 +52,4 @@ https://docs.google.com/document/d/1GmnAne6Pk0AkqnJsj9ha9h4zJhxn75hBDpUdwBckDuk/
 
 
 ## Questions/Concerns?
-Please contact Mark Williams at mark.williams5@nih.gov or on Slack
+Please as on our Slack channel (2022_summer_coding_camp) or contact Ewy (ewy.mathe@nih.gov) or Mark (mark.williams@nih.gov) directly.
